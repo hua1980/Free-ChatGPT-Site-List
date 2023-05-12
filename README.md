@@ -1663,6 +1663,7 @@
 ### 欢迎补充
 
 GitHub 仓库地址:https://github.com/AILABAmiYA/Free-ChatGPT-Site-List
+       仓库1：https://github.com/xx025/carrot
 
 
 ### 最后更新
